@@ -1,9 +1,8 @@
 package pages;
 
-class Page3 {
+public class page {
 
     public static void main(String[] args) {
-
-        Page1.HomePage();
+        System.out.println("Hello, World!");
     }
 }
